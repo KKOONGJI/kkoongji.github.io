@@ -692,6 +692,7 @@ The first (most recent) post in the list is styled to be bigger than the others 
 }
 
 .post-full-content li {
+    font-family: 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif;  
     word-break: break-word;
 }
 
